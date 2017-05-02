@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let { concierge, flags } = require(`@manaflair/concierge`);
 
 concierge
