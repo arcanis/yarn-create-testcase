@@ -1,5 +1,5 @@
 {
     "scripts": {
-        "start": "yarn-create-testcase --run testcase.sh"
+        "start": "yarn-create-testcase run testcase.sh"
     }
 }
